@@ -1,0 +1,55 @@
+
+.profile{
+    background-image: url('/images/port.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 150px;
+    /* margin-bottom: 1px; */
+}
+.projects{
+    background-image: url('/images/7.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* padding-bottom: 150px; */
+    min-height: 100vh;
+}
+
+.myself{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 550px;
+    color: white;
+    
+}
+.myself li{
+    list-style: none;
+}
+.primage{
+    width: 200px;
+    position: absolute;
+    border-radius: 10px;
+    padding: 30px;
+    margin-left: 330px;
+    margin-top: 100px;
+    box-shadow: 5px 5px 5px 5px grey;    /*changd
+    /* padding-right: 100px; */
+}
+.photo{
+    background-image: url('/images/home.jpg');
+    /* background-color: hotpink; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 150vh;
+}
+#newtable{
+    width: 50%;
+    margin-left: 300px;
+    margin-top: 50px;
+    
+}
+.academic{
+    background-image: url('/images/port1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 150vh;
+}
